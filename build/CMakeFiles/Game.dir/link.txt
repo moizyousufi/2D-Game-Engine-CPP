@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Game.dir/game.cpp.o -o Game  -lSDL2 -lSDL2_mixer -lSDL2 -lSDL2_image -lpthread -lSDL2_mixer -lSDL2_image -lpthread 
